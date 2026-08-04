@@ -1,3 +1,3 @@
 # TicTacToe
-TicTacToe game made in c++
-# This is made for my internship
+TicTacToe game made in C++.
+# This is made for My Internship.
